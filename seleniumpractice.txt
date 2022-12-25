@@ -1,0 +1,37 @@
+Features of framework
+1. Maven
+2. WebDriverManager implementation
+3. TestNG Annotations & Handling TestNG XML.
+4. Baseclass implementation.
+5. Page Object model implementation and Page Factory.
+6. Data driven using JSON.
+7. Using TestNG Listeners for screenshots.
+8. ExtentReport code.
+9. Parallel execution and making the code thread safe.
+10. Retry Flacky scripts.
+11. Total number of exceptions:
+	1. Invalid Argument Exception.
+	2. Unhandled Alert Exception.
+	3. StaleElementReference Exception.
+	4. Invalid Selector Exception.
+	5. Javascript Exception.
+	6. NoSuchWindow Exception.
+	7. NoAlertPresent Exception.
+	8. NoSuchFrame Exception.
+	9. Pageload timeout Exception.
+	10. Elementnotinteractable  Exception.
+	11. NoSuchSession Exception.
+	12. SessionNotCreated Exception.
+	13. ElementClickIntercepted Exception.
+	14. NoSuchElement Exception.
+	15. IllegalState Exception.
+12. Java concepts.
+	1. Class & Objects.
+	2. Constructors.
+	3. Method Overloading.
+	4. Inheritance.
+	5. Interface.
+	6. Method overriding.
+	7. Arrays.
+	8. Access modifiers.
+	8. < Yet to add to the list >.
